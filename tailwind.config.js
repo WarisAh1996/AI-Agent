@@ -8,14 +8,14 @@ export default {
     extend: {
       colors: {
         primary: {
-          DEFAULT: '#0ea5e9',
-          dark: '#0284c7'
+          DEFAULT: '#FF69B4', // Hot pink
+          dark: '#FF1493'     // Deep pink
         },
         secondary: {
-          DEFAULT: '#10b981',
-          dark: '#059669'
+          DEFAULT: '#000000', // Black
+          dark: '#1a1a1a'     // Slightly lighter black
         },
-        accent: '#22d3ee'
+        accent: '#FF69B4'     // Hot pink for accent
       },
       fontFamily: {
         heading: ['Montserrat', 'sans-serif'],
